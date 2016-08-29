@@ -1,4 +1,4 @@
 # Betting On Node
-A simple betting game built using Javascript.
+A simple betting game built using Javascript and Node.js
 
-[Command Line Version using Node](https://github.com/sandraytsai/JS-Betting-Game)
+[Browser version here](https://github.com/sandraytsai/JS-Betting-Game/tree/master)
